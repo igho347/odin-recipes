@@ -7,13 +7,13 @@ This project is a part of my learning track with "The Odin Project",
  I showcased my knowledge and skills in html by using
  html tags and elements like:
 
-paragraphs-------<p>
-Anchor-----------<a>
-Strong--------<strong>
-italics/emphasis----<em>
-unordered list--<ul>
-ordered lists---<ol>
-images-------<img>
+paragraphs
+Anchor
+Strong
+italics/emphasis
+unordered list
+ordered lists
+images
 
 I combined these tags and elements with various attributes like the hypertext reference "href" for the anchor element and the source "src" for the image element etc.
 
